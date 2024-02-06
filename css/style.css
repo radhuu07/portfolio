@@ -474,6 +474,7 @@ header .row {
 .home {
     min-height: 100vh;
     background-image: url("/img/hero.png");
+      background-color: #01143e;
     background-size: cover;
     background-position: center;
     padding: 15px;
